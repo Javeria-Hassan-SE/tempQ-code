@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "383424618419",
+    "project_id": "notification-flutter-b6911",
+    "storage_bucket": "notification-flutter-b6911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383424618419:android:a5935ececd3d0bcbe035c6",
+        "android_client_info": {
+          "package_name": "com.tecroam.temp_q"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2xLziJxLPcIb1v4PnEXGoMbFoaaExB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383424618419:android:27b043bb09e733b7e035c6",
+        "android_client_info": {
+          "package_name": "com.tecroam.tempq_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2xLziJxLPcIb1v4PnEXGoMbFoaaExB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383424618419:android:962996f1d3253225e035c6",
+        "android_client_info": {
+          "package_name": "com.tecroam.tempq_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2xLziJxLPcIb1v4PnEXGoMbFoaaExB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383424618419:android:bbe02ac26de265c9e035c6",
+        "android_client_info": {
+          "package_name": "com.tempq.tempq_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq2xLziJxLPcIb1v4PnEXGoMbFoaaExB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383424618419-8n2gp6um7ae5s1homvb5tak4gk7msma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
